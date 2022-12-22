@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sword.6.ogg-ff5808b55a94d13bb2a10dee1bd78be1.oggstr"
+
+[deps]
+
+source_file="res://sound/copied/sword - StarNinjas/sword.6.ogg"
+dest_files=[ "res://.import/sword.6.ogg-ff5808b55a94d13bb2a10dee1bd78be1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
